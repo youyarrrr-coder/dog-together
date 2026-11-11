@@ -1,0 +1,6 @@
+{
+  "name": "반려첫걸음 (PawStep) - 예비 & 초보 견주 완벽 가이드",
+  "description": "입양 전 필수 준비물과 유의사항부터 생애 비용 계산기, 1년 단위 연차별 훈육 로드맵, 전국 반려견 산책 명소 추천까지 예비·초보 견주를 위한 올인원 안내서",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
